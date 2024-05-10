@@ -26,13 +26,6 @@ I'm an Full Stack Developer looking for opportunities in the data area. I'm neur
  
  [![Linkedin](https://img.shields.io/badge/-Linkedin-informational?logo=Linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/andressa-assun%C3%A7%C3%A3o-65825216a/)&nbsp;
 
-💻 Information System
-
-📌 Belo Horizonte, MG
-
-🏫 Puc Minas
-
-🎮 guitarist, gamer, netflix fan.
 
 ## GitHub Stats.
 <div id="line" align="center">  
