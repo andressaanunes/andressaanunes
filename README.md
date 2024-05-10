@@ -29,7 +29,7 @@ I'm an Full Stack Developer looking for opportunities in the data area. I'm neur
 </div>
 
 <div id="line" align="start">  
- <img src="giphy.gif" width="400px" height="300px" align="right" padding="20px">
+ <img src="linux.gif" width="200px" height="200px" align="right" padding="20px">
 
 💻 Full Stack Developer                                        
 
