@@ -25,7 +25,6 @@ I'm an Full Stack Developer looking for opportunities in the data area. I'm neur
  [![Linkedin](https://img.shields.io/badge/-Linkedin-informational?logo=Linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/andressa-assun%C3%A7%C3%A3o-65825216a/)&nbsp;
 
  <div id="line" align="center">  
-  <img src="https://media.giphy.com/media/RWh8eviOem62GVZHLd/giphy.gif" width="1000" height="50"/>  
 </div>
 
 
@@ -43,6 +42,7 @@ I'm an Full Stack Developer looking for opportunities in the data area. I'm neur
 </div>
 
  <img src="https://media.giphy.com/media/RWh8eviOem62GVZHLd/giphy.gif" width="1000" height="50"/>  
+ 
 
  <div>
   <center>
@@ -70,7 +70,7 @@ I'm an Full Stack Developer looking for opportunities in the data area. I'm neur
  </div>
 
 
- <img src="https://media.giphy.com/media/RWh8eviOem62GVZHLd/giphy.gif" width="1000" height="50"/>  
+ <br width="1000" height="500"/>  
  
 
 <div>
