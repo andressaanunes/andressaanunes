@@ -7,6 +7,8 @@
 <div id="line" align="start">  
  <img src="linux.gif" width="200px" height="200px" align="right" padding="20px">
 
+👩🏻‍💻 Data Analysys
+
 💻 Full Stack Developer                                        
 
 📌 Belo Horizonte, MG
