@@ -5,7 +5,7 @@
 
 
 <div id="line" align="start">  
- <img src="linux.gif" width="200px" height="200px" align="right" padding="20px">
+ <img src="rico.gif" width="200px" height="100px" align="right" padding="20px">
 
 👩🏻‍💻 Data Analysys
 
