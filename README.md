@@ -19,7 +19,7 @@
 </div>
 </div>
 
- <img src="https://media.giphy.com/media/RWh8eviOem62GVZHLd/giphy.gif" width="1000" height="50"/>  
+
  
 
 <div align="center">
@@ -54,7 +54,7 @@
     <tr>
       <div align="center">
   <a href="https://github.com/andressaanunes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andressaanunes&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andressaanunes&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andressaanunes&layout=compact&langs_count=7&theme=chartreuse-dark"/>
    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=andressaanunes&theme=chartreuse-dark" alt="andressaanunes" /></p>
 </div>  
