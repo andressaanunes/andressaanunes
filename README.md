@@ -9,13 +9,11 @@
 
 👩🏻‍💻 Data Analysys
 
-💻 Full Stack Developer                                        
-
-📌 Belo Horizonte, MG
+💻 Software Developer                                        
 
 🏫 Information System, Puc Minas
 
-🎮 guitarist, gamer, netflix fan
+🎮 guitarist, gamer, netflix
 </div>
 </div>
 
@@ -24,23 +22,21 @@
 
 <div align="center">
   <br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="30" height="30">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="30" height="30">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="Azure SQL Database" width="30" height="30">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30" height="30">
-  <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="Biblioteca React" width="30" height="30">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="30" height="30">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width="30" height="30">
+ 
+  <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="30" height="30">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="Angular" width="30" height="30">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="Biblioteca React" width="30" height="30">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="30" height="30">
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt="Django" width="30" height="30">
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-line-wordmark.svg" alt="Laravel" width="30" height="30">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter" width="30" height="30">
   <br>
   <br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width="30" height="30">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" alt="C#" width="30" height="30">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="30" height="30">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azuresqldatabase/azuresqldatabase-original.svg" alt="Azure SQL Database" width="30" height="30">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30" height="30">
+
   <br>
 </div>
 
